@@ -10,6 +10,8 @@ This GitHub repository contains firmware, device configuration, hardware designs
 - **Datasheets:** Technical specifications for STM32 microcontrollers and peripherals.
 - **Nucleo Shield Board Compatibility:** Compatible shield boards to expand Nucleo capabilities
 
+![image](https://github.com/ariefazzmi/STM32-Nucleo/assets/75991391/48164d75-83b6-4a7d-b77b-2856b4082656)
+
   
 ---
 *This README is subject to updates. Contributions and feedback are welcome.*
